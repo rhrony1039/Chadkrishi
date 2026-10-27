@@ -1,4 +1,4 @@
-# ChadKrishi --- ছাদ কৃষি 🌱
+# ChadKrishi 
 
 **ChadKrishi** is a Bangladesh-focused rooftop and urban gardening web
 application. It helps people manage plants, follow simple care tasks,
